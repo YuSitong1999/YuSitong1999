@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusitong1999&layout=compact)
 
+[洛谷OJ](https://www.luogu.com.cn/user/5727#practice)
+
+[力扣leetcode](https://leetcode.cn/u/chuan-shuo-2/)
 
 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
